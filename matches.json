@@ -5,8 +5,12 @@
         "tour": 1,
         "home": "France",
         "away": "Romania",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/181.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/276.png",
+        "score_home": 2,
+        "score_away": 1,
+        "date": "10 june",
+        "city": "S.Denis"
     },
     {
         "id": 2,
@@ -14,8 +18,12 @@
         "tour": 1,
         "home": "Albania",
         "away": "Switzerland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/274.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/182.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "11 june",
+        "city": "Lens"
     },
     {
         "id": 3,
@@ -23,8 +31,12 @@
         "tour": 2,
         "home": "Romania",
         "away": "Switzerland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/276.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/182.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "15 june",
+        "city": "Paris"
     },
     {
         "id": 4,
@@ -32,8 +44,12 @@
         "tour": 2,
         "home": "France",
         "away": "Albania",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/181.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/274.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "15 june",
+        "city": "Marseille"
     },
     {
         "id": 5,
@@ -41,8 +57,12 @@
         "tour": 3,
         "home": "Romania",
         "away": "Albania",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/276.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/274.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "19 june",
+        "city": "Lyon"
     },
     {
         "id": 6,
@@ -50,8 +70,12 @@
         "tour": 3,
         "home": "Switzerland",
         "away": "France",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/182.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/181.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "19 june",
+        "city": "Lille"
     },
     {
         "id": 7,
@@ -59,8 +83,12 @@
         "tour": 1,
         "home": "Austria",
         "away": "Hungary",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/277.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/207.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "14 june",
+        "city": "Bordeaux"
     },
     {
         "id": 8,
@@ -68,8 +96,12 @@
         "tour": 1,
         "home": "Portugal",
         "away": "Iceland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/172.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/271.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "14 june",
+        "city": "S.Etienne"
     },
     {
         "id": 9,
@@ -77,8 +109,12 @@
         "tour": 2,
         "home": "Iceland",
         "away": "Hungary",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/271.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/207.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "18 june",
+        "city": "Marseille"
     },
     {
         "id": 10,
@@ -86,8 +122,12 @@
         "tour": 2,
         "home": "Portugal",
         "away": "Austria",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/172.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/277.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "18 june",
+        "city": "Paris"
     },
     {
         "id": 11,
@@ -95,8 +135,12 @@
         "tour": 3,
         "home": "Iceland",
         "away": "Austria",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/271.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/277.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "22 june",
+        "city": "S.Denis"
     },
     {
         "id": 12,
@@ -104,8 +148,12 @@
         "tour": 3,
         "home": "Hungary",
         "away": "Portugal",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/207.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/172.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "22 june",
+        "city": "Lyon"
     },
     {
         "id": 13,
@@ -113,8 +161,12 @@
         "tour": 1,
         "home": "Republic  of Ireland",
         "away": "Sweden",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/266.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/165.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "13 june",
+        "city": "S.Denis"
     },
     {
         "id": 14,
@@ -122,8 +174,12 @@
         "tour": 1,
         "home": "Belgium",
         "away": "Italy",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/259.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/173.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "13 june",
+        "city": "Lyon"
     },
     {
         "id": 15,
@@ -131,8 +187,12 @@
         "tour": 2,
         "home": "Italy",
         "away": "Sweden",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/173.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/165.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "17 june",
+        "city": "Toulouse"
     },
     {
         "id": 16,
@@ -140,8 +200,12 @@
         "tour": 2,
         "home": "Belgium",
         "away": "Republic  of Ireland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/259.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/266.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "18 june",
+        "city": "Bordeaux"
     },
     {
         "id": 17,
@@ -149,8 +213,12 @@
         "tour": 3,
         "home": "Sweden",
         "away": "Belgium",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/165.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/259.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "22 june",
+        "city": "Nice"
     },
     {
         "id": 18,
@@ -158,8 +226,12 @@
         "tour": 3,
         "home": "Italy",
         "away": "Republic  of Ireland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/173.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/266.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "22 june",
+        "city": "Lille"
     },
     {
         "id": 19,
@@ -167,8 +239,12 @@
         "tour": 1,
         "home": "Turkey",
         "away": "Croatia",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/200.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/178.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "12 june",
+        "city": "Paris"
     },
     {
         "id": 20,
@@ -176,8 +252,12 @@
         "tour": 1,
         "home": "Spain",
         "away": "Czech republic",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/185.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/174.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "13 june",
+        "city": "Toulouse"
     },
     {
         "id": 21,
@@ -185,8 +265,12 @@
         "tour": 2,
         "home": "Czech republic",
         "away": "Croatia",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/174.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/178.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "17 june",
+        "city": "S.Etienne"
     },
     {
         "id": 22,
@@ -194,8 +278,12 @@
         "tour": 2,
         "home": "Spain",
         "away": "Turkey",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/185.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/200.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "17 june",
+        "city": "Nice"
     },
     {
         "id": 23,
@@ -203,8 +291,12 @@
         "tour": 3,
         "home": "Czech republic",
         "away": "Turkey",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/174.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/200.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "21 june",
+        "city": "Lens"
     },
     {
         "id": 24,
@@ -212,8 +304,12 @@
         "tour": 3,
         "home": "Croatia",
         "away": "Spain",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/178.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/185.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "21 june",
+        "city": "Bordeaux"
     },
     {
         "id": 25,
@@ -221,8 +317,12 @@
         "tour": 1,
         "home": "Poland",
         "away": "Northern Ireland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/160.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/273.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "12 june",
+        "city": "Nice"
     },
     {
         "id": 26,
@@ -230,8 +330,12 @@
         "tour": 1,
         "home": "Germany",
         "away": "Ukraine",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/158.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/186.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "12 june",
+        "city": "Lille"
     },
     {
         "id": 27,
@@ -239,8 +343,12 @@
         "tour": 2,
         "home": "Ukraine",
         "away": "Northern Ireland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/186.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/273.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "16 june",
+        "city": "Lyon"
     },
     {
         "id": 28,
@@ -248,8 +356,12 @@
         "tour": 2,
         "home": "Germany",
         "away": "Poland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/158.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/160.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "16 june",
+        "city": "S.Denis"
     },
     {
         "id": 29,
@@ -257,8 +369,12 @@
         "tour": 3,
         "home": "Northern Ireland",
         "away": "Germany",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/273.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/158.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "21 june",
+        "city": "Paris"
     },
     {
         "id": 30,
@@ -266,8 +382,12 @@
         "tour": 3,
         "home": "Ukraine",
         "away": "Poland",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/186.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/160.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "21 june",
+        "city": "Marseille"
     },
     {
         "id": 31,
@@ -275,8 +395,12 @@
         "tour": 1,
         "home": "Wales",
         "away": "Slovakia",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/193.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/268.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "11 june",
+        "city": "Bordeaux"
     },
     {
         "id": 32,
@@ -284,8 +408,12 @@
         "tour": 1,
         "home": "England",
         "away": "Russia",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/162.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/198.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "11 june",
+        "city": "Marseille"
     },
     {
         "id": 33,
@@ -293,8 +421,12 @@
         "tour": 2,
         "home": "Russia",
         "away": "Slovakia",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/198.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/268.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "15 june",
+        "city": "Lille"
     },
     {
         "id": 34,
@@ -302,8 +434,12 @@
         "tour": 2,
         "home": "England",
         "away": "Wales",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/162.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/193.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "16 june",
+        "city": "Lens"
     },
     {
         "id": 35,
@@ -311,8 +447,12 @@
         "tour": 3,
         "home": "Russia",
         "away": "Wales",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/198.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/193.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "20 june",
+        "city": "Toulouse"
     },
     {
         "id": 36,
@@ -320,7 +460,11 @@
         "tour": 3,
         "home": "Slovakia",
         "away": "England",
-        "score_home": "",
-        "score_away": "",
+        "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/268.png",
+        "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/162.png",
+        "score_home": "-",
+        "score_away": "-",
+        "date": "20 june",
+        "city": "S.Etienne"
     },
 ]

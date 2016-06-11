@@ -1,0 +1,193 @@
+body {
+  background-color: #eaeaea;
+}
+.active {
+  color: #fff !important;
+  background: #1B87D2!important;
+  border-radius: 10px;
+}
+tr {
+  padding-left: 0.8em;
+  padding-right: 0.8em;
+}
+thead td, .points {
+  font-weight: bold;
+}
+td {
+  padding: 0.5em;
+  text-align: center;
+}
+.matchDate {
+  width: 10%;
+  position: relative;
+  float: left;
+}
+.matchCity {
+  width: 10%;
+  position: relative;
+  float: left;
+}
+.team1 {
+  width: 30%;
+  position: relative;
+  float: left;
+  text-align: right;
+}
+.team2 {
+  width: 30%;
+  position: relative;
+  float: left;
+  text-align: left;
+}
+.flag {
+  width: 4%;
+  position: relative;
+  float: left;
+  text-align: center;
+}
+.score {
+  text-align: center;
+  position: relative;
+  float: left;
+  margin: 0 3px;
+  width: 10%;
+  font-weight: bold;
+}
+.links {
+  padding-left: 27%;
+  padding-right: 27%;
+  margin: 30px 0px;
+  -webkit-box-shadow: 0px 2px 3px -1px rgba(0, 0, 0, 0.35);
+  background-color: #fff;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}
+.match {
+  width: 543px;
+  float: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 8px;
+}
+.tableWrap {
+  padding: 10px 22px;
+}
+.gameTable {
+  font: 14px PF Din Regular, Arial, sans-serif;
+  text-transform: uppercase;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 10px 10px;
+  border-bottom: 1px solid #e1e1e1;
+  table-layout: fixed;
+}
+.columnBlock {
+  -webkit-box-shadow: 0px 2px 3px -1px rgba(0, 0, 0, 0.35);
+  background-color: #fff;
+}
+.gameTable tr {
+  border-top: 1px solid #e1e1e1;
+}
+.gameTable thead tr:first-child {
+  border-top: none;
+}
+.groups .game-table tr:first-child {
+  font-size: 10px;
+  text-transform: uppercase;
+}
+.gameTable td, .gameTable th {
+  height: 40px;
+  vertical-align: middle;
+}
+.gameTable th:first-child {
+  text-align: left;
+}
+.gameTable  img {
+  vertical-align: -25%;
+}
+.gameTable .flagHolder {
+  text-align: center;
+}
+.gameTable .gameNumber {
+  width: 20px;
+}
+.gameTable .gamesCell {
+  width: 47px;
+}
+.gameTable .scoreCell {
+  width: 30px;
+  text-align: center;
+}
+.gameTable .ralign {
+  text-align: right;
+}
+.gameTable .resultCell { width: 60px; }
+.gameTable .inprogress .scoreCell a, .matches .inprogress .scoreCell a, .matchesTable .inprogress .count a { color: #E72722; }
+
+.matchBlock {
+  padding-bottom: 10px;
+  margin-top: 2em;
+  min-height: 185px;
+}
+.matchBlock .matchHeader {
+  font-size: 16px;
+}
+.matchBlock .gameTable {
+  margin: 8px 0 2px;
+  border: none;
+}
+.matchBlock .leftTeam, .matchBlock .rightTeam {
+  width: 50%;
+}
+.matchBlock .flagHolder {
+    width: 38px;
+}
+.matchBlock .gameTable tr {
+  border-bottom: 1px dotted #dfdfdf;
+}
+.matchBlock .gameTable tr:last-child {
+  border: none;
+}
+.matchTile { margin: 0 -4px 0 -4px; }
+.matchTile .matchBlock { width:312px; margin: 0 4px 16px; float:left; position:relative; }
+.matchBlock .gameTable td:nth-child(2) img { margin-left: 4px; }
+.matchBlock .gameTable td:nth-child(4) img { margin-right: 4px; }
+
+/* tournament table */ 
+.tournametTable {
+  /*padding-bottom: 10px;*/
+}
+.tournametTable .gameTable img {
+  margin-right: 10px;
+}
+.tournametTable .gameTable {
+  font: 14px PF Din Regular, Arial, sans-serif;
+  color: #222;
+  text-align: right;
+  text-transform: uppercase;
+  border: none;
+}
+.tournametTable .gameTable th {
+  font: 11px PF Din Medium, Arial, sans-serif;
+  text-transform: uppercase;
+  padding-top: 3px;
+}
+.gameTable th.team {
+  padding-left: 31px; text-align: left;
+}
+.gameTable .number {
+  text-align: left;
+  width: 20px;
+}
+.tournametTable .gameTable .team {
+  text-align: left;
+}
+.tournametTable .gameTable .count {
+  width: 50px;
+}
+.gameTable a {
+  text-decoration: none;
+}
+.gameTable a:hover {
+  text-decoration: underline;
+}
