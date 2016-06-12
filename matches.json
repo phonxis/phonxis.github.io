@@ -20,8 +20,8 @@
         "away": "Switzerland",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/274.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/182.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "0",
+        "score_away": "1",
         "date": "11 june",
         "city": "Lens"
     },
@@ -397,8 +397,8 @@
         "away": "Slovakia",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/193.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/268.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "2",
+        "score_away": "1",
         "date": "11 june",
         "city": "Bordeaux"
     },
@@ -410,8 +410,8 @@
         "away": "Russia",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/162.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/198.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "1",
+        "score_away": "1",
         "date": "11 june",
         "city": "Marseille"
     },
