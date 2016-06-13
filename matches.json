@@ -241,8 +241,8 @@
         "away": "Croatia",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/200.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/178.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "0",
+        "score_away": "1",
         "date": "12 june",
         "city": "Paris"
     },
@@ -254,8 +254,8 @@
         "away": "Czech republic",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/185.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/174.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "1",
+        "score_away": "0",
         "date": "13 june",
         "city": "Toulouse"
     },
@@ -319,8 +319,8 @@
         "away": "Northern Ireland",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/160.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/273.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "1",
+        "score_away": "0",
         "date": "12 june",
         "city": "Nice"
     },
@@ -332,8 +332,8 @@
         "away": "Ukraine",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/158.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/186.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "2",
+        "score_away": "0",
         "date": "12 june",
         "city": "Lille"
     },
