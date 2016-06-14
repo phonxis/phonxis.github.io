@@ -163,8 +163,8 @@
         "away": "Sweden",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/266.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/165.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "1",
+        "score_away": "1",
         "date": "13 june",
         "city": "S.Denis"
     },
@@ -176,8 +176,8 @@
         "away": "Italy",
         "home_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/259.png",
         "away_img": "http://s.ill.in.ua/i/football/team/logo_rnd/0x18/173.png",
-        "score_home": "-",
-        "score_away": "-",
+        "score_home": "0",
+        "score_away": "2",
         "date": "13 june",
         "city": "Lyon"
     },
